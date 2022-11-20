@@ -1,5 +1,5 @@
 {
-  "name": "vnn/wordpress-rest-api-client",
+  "name": "tvup/wordpress-rest-api-client",
   "a  utoload": {
     "psr-4": {
       "Vnn\\WpApiClient\\": "src/"
